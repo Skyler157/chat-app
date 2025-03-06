@@ -7,7 +7,7 @@ import { signOut } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyABur8oTxrzFDcS_hCtKzhk5LhLLXWWkEM",
+  apiKey: "xxxxxx",
   authDomain: "chat-app-gs-97db9.firebaseapp.com",
   projectId: "chat-app-gs-97db9",
   storageBucket: "chat-app-gs-97db9.firebasestorage.app",
